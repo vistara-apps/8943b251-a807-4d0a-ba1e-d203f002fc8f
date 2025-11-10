@@ -1,0 +1,36 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "Bug Bounty Hub",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://8943b251-a807-4d0a-ba1e-d203f002fc8f.vercel.app",
+    "imageUrl": "https://8943b251-a807-4d0a-ba1e-d203f002fc8f.vercel.app/image.png",
+    "splashImageUrl": "https://8943b251-a807-4d0a-ba1e-d203f002fc8f.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "webhookUrl": "https://8943b251-a807-4d0a-ba1e-d203f002fc8f.vercel.app/api/webhook",
+    "subtitle": "Built with Zara",
+    "description": "Bug Bounty Hub is a Base Mini App built with Zara.",
+    "screenshotUrls": [
+      "https://8943b251-a807-4d0a-ba1e-d203f002fc8f.vercel.app/screenshot1.png",
+      "https://8943b251-a807-4d0a-ba1e-d203f002fc8f.vercel.app/screenshot2.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "heroImageUrl": "https://8943b251-a807-4d0a-ba1e-d203f002fc8f.vercel.app/hero.png",
+    "tagline": "Bug Bounty Hub",
+    "buttonTitle": "Open mini app",
+    "ogTitle": "Bug Bounty Hub",
+    "ogDescription": "Bug Bounty Hub is a Base Mini App built with Zara.",
+    "ogImageUrl": "https://8943b251-a807-4d0a-ba1e-d203f002fc8f.vercel.app/og-image.png",
+    "castShareUrl": "https://warpcast.com/~/compose?text=Check+out+Bug%20Bounty%20Hub+at+https%3A%2F%2F8943b251-a807-4d0a-ba1e-d203f002fc8f.vercel.app"
+  }
+}
